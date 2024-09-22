@@ -1,0 +1,1 @@
+# Настроить логирование через модуль logging в файле core/logging_config.py.
